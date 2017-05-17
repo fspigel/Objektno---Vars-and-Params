@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1494975197 source:c:\users\fspig\documents\projects\code blocks\objektno - vars and params\ipexpression.cpp
+	"IPExpression.h"
+	<sstream>
+	<iterator>
+	<iostream>
+	<string>
+	<math.h>
+	<stdexcept>
+	<algorithm>
+	<functional>
+	<cctype>
+	<locale>
+
+1494978563 c:\users\fspig\documents\projects\code blocks\objektno - vars and params\ipexpression.h
+	"ClassLib.h"
+	<string>
+	<vector>
+	<istream>
+	<stack>
+
+1494982858 source:c:\users\fspig\documents\projects\code blocks\objektno - vars and params\main.cpp
+	"Expression.h"
+	<iostream>
+	<string>
+
+1494977116 source:c:\users\fspig\documents\projects\code blocks\objektno - vars and params\transform.cpp
+	"Transform.h"
+	<sstream>
+	<iterator>
+	<iostream>
+	<string>
+	<math.h>
+	<stdexcept>
+	<algorithm>
+	<functional>
+	<cctype>
+	<locale>
+
+1494976086 c:\users\fspig\documents\projects\code blocks\objektno - vars and params\transform.h
+	<string>
+	<stack>
+	<list>
+	"IPExpression.h"
+
+1494980674 source:c:\users\fspig\documents\projects\code blocks\objektno - vars and params\classlib.cpp
+	"ClassLib.h"
+	<sstream>
+	<iostream>
+
+1494983701 c:\users\fspig\documents\projects\code blocks\objektno - vars and params\classlib.h
+	<vector>
+	<string>
+
+1494983039 source:c:\users\fspig\documents\projects\code blocks\objektno - vars and params\expression.cpp
+	"Expression.h"
+	<string>
+	<stack>
+	<vector>
+	<math.h>
+	<stdexcept>
+	<iostream>
+
+1494980426 c:\users\fspig\documents\projects\code blocks\objektno - vars and params\expression.h
+	"IPExpression.h"
+
