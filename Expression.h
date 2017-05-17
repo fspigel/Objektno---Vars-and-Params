@@ -1,7 +1,8 @@
 #ifndef EXPRESSION_H_INCLUDED
 #define EXPRESSION_H_INCLUDED
 
-#include "IPExpression.h"
+#include "ClassLib.h"
+#include <stack>
 
 /**  Klasa se incijalizira izrazom u infix formi koji automatski konvertira u
  *   postfix formu i nudi metodu evaluate() te print_postfix().

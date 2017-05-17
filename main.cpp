@@ -1,5 +1,6 @@
 #include "Expression.h"
 #include <iostream>
+#include <sstream>
 #include <string>
 
 using namespace std;
@@ -22,6 +23,8 @@ int main()
         cout << "Input variable x: ";
         cin >> str;
         if(!str.compare("end")) return 0;
-        cout << "Result: " << expr.evaluate(stoi(str)) << endl;
+        stringstream ss(str);
+        ss >> x;
+        cout << "Result: " << expr.evaluate(x) << endl;
     }while(1);
 }

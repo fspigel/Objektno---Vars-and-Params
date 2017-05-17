@@ -64,3 +64,25 @@
 1494980426 c:\users\fspig\documents\projects\code blocks\objektno - vars and params\expression.h
 	"IPExpression.h"
 
+1495027000 source:c:\users\fspigel\desktop\cb stuff\objektno---vars-and-params\classlib.cpp
+	"ClassLib.h"
+	<sstream>
+	<iostream>
+
+1495027000 c:\users\fspigel\desktop\cb stuff\objektno---vars-and-params\classlib.h
+	<vector>
+	<string>
+
+1495027000 source:c:\users\fspigel\desktop\cb stuff\objektno---vars-and-params\expression.cpp
+	"Expression.h"
+	<string>
+	<stack>
+	<vector>
+	<math.h>
+	<stdexcept>
+	<iostream>
+
+1495027334 c:\users\fspigel\desktop\cb stuff\objektno---vars-and-params\expression.h
+	"ClassLib.h"
+	<stack>
+
